@@ -111,12 +111,12 @@ const Banner = () => {
               </span>
             </button>
             
-            <button className="group relative px-8 py-4 bg-white/5 hover:bg-white/10 text-white font-semibold rounded-xl transition-all duration-300 backdrop-blur-sm border border-white/10 hover:border-white/30 transform hover:scale-105 shadow-xl min-w-[220px] overflow-hidden">
+            <a href="/comunity"><button  className="group relative px-8 py-4 bg-white/5 hover:bg-white/10 text-white font-semibold rounded-xl transition-all duration-300 backdrop-blur-sm border border-white/10 hover:border-white/30 transform hover:scale-105 shadow-xl min-w-[220px] overflow-hidden">
               <span className="flex items-center justify-center gap-3">
                 <Users className="w-5 h-5" />
                 Join Elite Community
               </span>
-            </button>
+            </button></a>
           </div>
 
           {/* Premium Stats Section */}
