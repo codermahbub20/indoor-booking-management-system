@@ -11,7 +11,7 @@ const Banner = () => {
   }, []);
 
   return (
-    <div className="relative min-h-screen w-full pb-9 overflow-hidden">
+    <div className="relative min-h-screen w-full pb-9 pt-5 overflow-hidden">
       {/* Premium Background with Multiple Layers */}
       <div className="absolute inset-0">
         {/* Base Image Layer */}
