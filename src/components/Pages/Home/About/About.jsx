@@ -25,7 +25,7 @@ const About = () => {
             </span>
           </div>
           <h2 className="text-5xl font-bold text-white sm:text-6xl lg:text-7xl mb-8" style={{ fontFamily: 'Oswald, sans-serif' }}>
-            <span className="bg-gradient-to-r from-blue-400 via-purple-400 to-rose-400 bg-clip-text text-transparent">Avalon Sports</span>
+            <span className="bg-gradient-to-r from-blue-400 via-purple-400 to-rose-400 bg-clip-text text-transparent">NexArena Sports</span>
           </h2>
           <p className="text-2xl text-gray-300 max-w-4xl mx-auto font-light" style={{ fontFamily: 'Montserrat, sans-serif' }}>
             Revolutionizing indoor sports with our state-of-the-art booking platform and premium facilities designed for athletes of all levels.
@@ -37,7 +37,7 @@ const About = () => {
           <div>
             <h3 className="text-3xl font-bold text-white mb-8 uppercase tracking-wide" style={{ fontFamily: 'Oswald, sans-serif' }}>Premium Indoor Booking Experience</h3>
             <p className="text-gray-300 text-lg mb-10 leading-relaxed" style={{ fontFamily: 'Montserrat, sans-serif' }}>
-              Avalon Sports offers a seamless, premium booking experience for indoor sports enthusiasts. 
+              NexArena Sports offers a seamless, premium booking experience for indoor sports enthusiasts. 
               Our advanced platform ensures you can reserve courts, manage schedules, and connect with 
               other players effortlessly while enjoying our state-of-the-art facilities.
             </p>
@@ -174,7 +174,7 @@ const About = () => {
               </div>
               <div className="flex items-center" style={{ fontFamily: 'Montserrat, sans-serif' }}>
                 <Mail className="w-5 h-5 mr-2" />
-                info@avalonsports.com
+                nexolveit@gmail.com
               </div>
             </div>
           </div>
