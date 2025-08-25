@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import { Search, Play, Users, Trophy, ArrowRight, Star, Award, Zap } from 'lucide-react';
 
 const Banner = () => {
@@ -11,7 +11,7 @@ const Banner = () => {
   }, []);
 
   return (
-    <div className="relative min-h-screen w-full overflow-hidden">
+    <div className="relative min-h-screen w-full pb-9 overflow-hidden">
       {/* Premium Background with Multiple Layers */}
       <div className="absolute inset-0">
         {/* Base Image Layer */}
