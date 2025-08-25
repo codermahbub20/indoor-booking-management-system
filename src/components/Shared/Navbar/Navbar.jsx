@@ -41,8 +41,8 @@ const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const navLinks = [
-    { href: "#", label: "Home" },
-    { href: "#", label: "Facilities" },
+    { href: "/", label: "Home" },
+    { href: "/facilities", label: "Facilities" },
     { href: "#", label: "Pricing" },
     { href: "#", label: "Tournaments" },
     { href: "#", label: "About" },
